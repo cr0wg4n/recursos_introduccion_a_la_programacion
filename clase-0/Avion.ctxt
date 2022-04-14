@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Avion
+comment1.params=numAsientos\ modelo\ linea
+comment1.target=Avion(int,\ java.lang.String,\ java.lang.String)
+comment2.params=constanteFriccion
+comment2.target=double\ calcularVelocidad(double)
+comment3.params=
+comment3.target=void\ volar()
+comment4.params=
+comment4.target=void\ maniobraDePlaneacion()
+comment5.params=velocidadMaxima
+comment5.target=void\ ponerVelocidadMaxima(double)
+comment6.params=velocidadMinima
+comment6.target=void\ ponerVelocidadMinima(double)
+numComments=7

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Perro
+comment1.params=nombre
+comment1.target=void\ ponerNombre(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ obtenerNombre()
+numComments=3

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Reloj
+comment1.params=
+comment1.target=Reloj()
+comment2.params=
+comment2.target=void\ incrementarMinuto()
+comment3.params=
+comment3.target=void\ incrementarHora()
+comment4.params=
+comment4.target=void\ decrementarMinuto()
+comment5.params=
+comment5.target=void\ decrementarHora()
+numComments=6

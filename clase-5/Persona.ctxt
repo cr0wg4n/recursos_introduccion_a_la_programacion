@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Persona
+comment1.params=nombre
+comment1.target=Persona(java.lang.String)
+comment2.params=
+comment2.target=void\ incrementarEdad()
+comment3.params=
+comment3.target=void\ mostrarEtapa()
+numComments=4

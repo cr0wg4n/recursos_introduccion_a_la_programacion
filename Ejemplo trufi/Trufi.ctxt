@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Trufi
+comment0.text=\r\n\ Trufi.\r\n\r\n\ @author\ Vladimir\r\n\ @version\ 20220414\ vcj\r\n
+comment1.params=capacidadPasajeros
+comment1.target=Trufi(int)
+comment2.params=tipoPasajero\ cantidad
+comment2.target=void\ subirPasajeros(char,\ int)
+comment2.text=\ \ tipo\ pasajero\r\n\ 'a'\ adulto\r\n\ 'u'\ universitario\r\n\ 'e'\ escolar\r\n\ 'g'\ gratuito\ \ \ \ \r\n
+comment3.params=
+comment3.target=int\ contarPasajeros()
+comment4.params=tipoPasajero\ cantidad
+comment4.target=void\ bajarPasajeros(char,\ int)
+comment5.params=numero
+comment5.target=int\ controlarNegativos(int)
+comment6.params=
+comment6.target=double\ mostrarRecaudado()
+numComments=7

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Flor
+comment1.params=color\ aroma
+comment1.target=Flor(java.lang.String,\ java.lang.String)
+comment2.params=color
+comment2.target=Flor(java.lang.String)
+comment3.params=
+comment3.target=void\ contarPetalos()
+comment4.params=tamanio
+comment4.target=int\ contarPetalos(int)
+numComments=5

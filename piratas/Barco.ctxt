@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Barco
+comment1.params=nroLiberarDeSaqueadores\ nroBuscarDesaparecidos\ nroRecolectarAlimentos
+comment1.target=Barco(int,\ int,\ int)
+comment2.params=
+comment2.target=int\ calcularEsfuerzo()
+comment3.params=
+comment3.target=boolean\ lanzarMoneda()
+comment4.params=
+comment4.target=int\ lanzarDado()
+comment5.params=
+comment5.target=void\ calcularGanancias()
+comment6.params=
+comment6.target=void\ agregarNuevoMiembro()
+numComments=7

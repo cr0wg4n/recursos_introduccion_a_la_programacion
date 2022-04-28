@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Juego
+comment1.params=
+comment1.target=Juego()
+comment2.params=
+comment2.target=int\ incrementoComputadora()
+comment3.params=
+comment3.target=boolean\ ganador()
+comment4.params=incremento
+comment4.target=java.lang.String\ jugar(int)
+comment5.params=incremento
+comment5.target=void\ jugarHumano(int)
+comment6.params=
+comment6.target=void\ jugarComputadora()
+numComments=7

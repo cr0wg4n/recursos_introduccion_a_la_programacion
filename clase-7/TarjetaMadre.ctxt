@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=TarjetaMadre
+comment1.params=marca
+comment1.target=TarjetaMadre(java.lang.String)
+comment2.params=videojuego
+comment2.target=void\ agregarVideojuego(VideoJuego)
+comment3.params=cpu
+comment3.target=void\ agregarCPU(Cpu)
+comment4.params=gpu
+comment4.target=void\ agregarGPU(Gpu)
+comment5.params=ram1
+comment5.target=void\ agregarRam1(Ram)
+comment6.params=ram2
+comment6.target=void\ agregarRam2(Ram)
+comment7.params=
+comment7.target=int\ totalRam()
+comment8.params=
+comment8.target=void\ mostrarCaracteristicas()
+comment9.params=
+comment9.target=boolean\ comprobarVideojuego()
+numComments=10

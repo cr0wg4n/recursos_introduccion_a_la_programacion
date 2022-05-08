@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Cpu
+comment1.params=velocidad\ hilos
+comment1.target=Cpu(double,\ int)
+comment2.params=
+comment2.target=void\ incrementarFuncionalidad()
+comment3.params=
+comment3.target=int\ obtenerHilos()
+comment4.params=
+comment4.target=double\ obtenerVelocidad()
+numComments=5

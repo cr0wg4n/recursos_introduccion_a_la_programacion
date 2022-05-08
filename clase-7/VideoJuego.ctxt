@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=VideoJuego
+comment1.params=nombre\ minVelocidad\ minHilos\ minRAM\ minGPU
+comment1.target=VideoJuego(java.lang.String,\ double,\ int,\ int,\ int)
+numComments=2

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=JuegoAdivinanza
+comment1.params=nroTurnos
+comment1.target=JuegoAdivinanza(int)
+comment2.params=
+comment2.target=int\ obtenerNumeroAlAzar()
+comment3.params=
+comment3.target=int\ pedirEntrada()
+comment4.params=
+comment4.target=void\ jugar()
+numComments=5

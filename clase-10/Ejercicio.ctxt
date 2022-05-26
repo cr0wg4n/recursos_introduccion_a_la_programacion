@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Ejercicio
+comment1.params=n
+comment1.target=int\ factorial(int)
+comment2.params=n
+comment2.target=double\ raizCuadrada2(int)
+numComments=3

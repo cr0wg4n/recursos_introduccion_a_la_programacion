@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Lock
+comment0.text=\r\n\ Cerradura\ de\ rueditas\r\n\ \r\n\ @author\ Vladimir\ Costas\r\n\ @version\ 20140409vcj\r\n
+comment1.params=
+comment1.target=Lock()
+comment10.params=nuevaClave
+comment10.target=void\ ponerClave(int)
+comment11.params=num
+comment11.target=int\ numDigitos(int)
+comment2.params=numero
+comment2.target=Lock(int)
+comment3.params=
+comment3.target=int\ getNumero()
+comment4.params=n
+comment4.target=boolean\ hayCero(int)
+comment5.params=numRueda
+comment5.target=void\ moverArribaRuedita(int)
+comment6.params=numRueda\ operando
+comment6.target=void\ moverArribaRuedita(int,\ int)
+comment7.params=numRueda
+comment7.target=void\ moverAbajoRuedita(int)
+comment8.params=numRueda\ operando
+comment8.target=void\ moverAbajoRuedita(int,\ int)
+comment9.params=
+comment9.target=boolean\ estaAbierto()
+numComments=12

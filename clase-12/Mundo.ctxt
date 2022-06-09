@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Mundo
+comment1.params=
+comment1.target=Mundo()
+comment2.params=
+comment2.target=java.lang.Object[]\ convertirAArreglo()
+comment3.params=
+comment3.target=boolean\ estaVacio()
+comment4.params=
+comment4.target=void\ eliminarPaises()
+comment5.params=nombre
+comment5.target=void\ eliminarPais(java.lang.String)
+comment6.params=
+comment6.target=int\ contarPaises()
+comment7.params=
+comment7.target=Pais\ paisMasRico()
+comment8.params=
+comment8.target=void\ mostrarPaises()
+numComments=9

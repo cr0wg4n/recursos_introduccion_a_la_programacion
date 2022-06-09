@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Personaje
+comment1.params=ataque\ defensa\ vida
+comment1.target=Personaje(int,\ int,\ double)
+comment2.params=
+comment2.target=double\ danioAtaque()
+comment3.params=danio
+comment3.target=void\ causarDanio(double)
+comment4.params=
+comment4.target=boolean\ estaMuerto()
+comment5.params=
+comment5.target=void\ obtenerCaracteristicas()
+numComments=6

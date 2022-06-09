@@ -1,4 +1,12 @@
 public class Ejercicio{
+    public int[] arregloFactorial(int n){
+        int[] arreglo = new int[n];
+        for(int i=0;i<n;i++){
+            arreglo[i]=this.factorial(i);
+        }
+        return arreglo;
+    }
+    
     public int factorial(int n){
         int aux = 1;
         for(int i=1;i<=n;i++){

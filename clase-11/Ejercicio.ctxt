@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Ejercicio
+comment1.params=
+comment1.target=void\ ejercicio1()
+comment2.params=cadena\ letra
+comment2.target=int\ contadorLetras(java.lang.String,\ char)
+numComments=3

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Planeta
+comment1.params=nombre\ distanciaAlSol
+comment1.target=Planeta(java.lang.String,\ long)
+comment2.params=
+comment2.target=long\ obtenerDistanciaAlSol()
+comment3.params=
+comment3.target=java.lang.String\ obtenerNombre()
+numComments=4

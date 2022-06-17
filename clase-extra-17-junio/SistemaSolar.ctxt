@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=SistemaSolar
+comment1.params=
+comment1.target=SistemaSolar()
+comment2.params=a\ b
+comment2.target=long\ calcularDistanciaEntrePlanetas(Planeta,\ Planeta)
+comment3.params=
+comment3.target=void\ tablaDeDistancias()
+numComments=4

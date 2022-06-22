@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Eleccion
+comment1.params=
+comment1.target=Eleccion()
+comment2.params=
+comment2.target=void\ identificarGanador()
+comment3.params=
+comment3.target=java.util.ArrayList[]\ generarBoletas()
+numComments=4

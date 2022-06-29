@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Depredador
+comment1.params=nombre\ huella
+comment1.target=Depredador(java.lang.String,\ int[][])
+comment2.params=
+comment2.target=int\ tamanioHuella()
+comment3.params=huella\ direccion
+comment3.target=int[][]\ rotarHuella(int[][],\ java.lang.String)
+comment4.params=huella
+comment4.target=int[][]\ girarHuellaDerecha(int[][])
+numComments=5

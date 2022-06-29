@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Practica
+comment1.params=palabras
+comment1.target=char[]\ convertirString(java.lang.String)
+comment2.params=palabras
+comment2.target=void\ imprimirMensajeEncuadrado(java.lang.String[])
+comment3.params=palabra
+comment3.target=java.lang.String\ traductorMongus(java.lang.String)
+numComments=4

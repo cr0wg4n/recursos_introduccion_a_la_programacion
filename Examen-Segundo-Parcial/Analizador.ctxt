@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Analizador
+comment1.params=
+comment1.target=void\ analizar()
+comment2.params=matrizA\ matrizB
+comment2.target=boolean\ compararMatrices(int[][],\ int[][])
+comment3.params=huella
+comment3.target=void\ mostrarMatriz(int[][])
+numComments=4

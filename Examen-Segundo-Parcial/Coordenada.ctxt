@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Coordenada
+comment1.params=x\ y
+comment1.target=Coordenada(int,\ int)
+comment2.params=x\ y\ orientacion
+comment2.target=Coordenada(int,\ int,\ java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

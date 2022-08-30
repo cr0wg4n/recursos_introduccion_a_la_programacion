@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Analizador
+comment1.params=
+comment1.target=Analizador()
+comment2.params=
+comment2.target=int[]\ ordenador()
+comment3.params=
+comment3.target=java.util.ArrayList\ ordenadorDeTuplas()
+numComments=4

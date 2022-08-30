@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Tupla
+comment1.params=palabra\ indice
+comment1.target=Tupla(java.lang.String,\ int)
+numComments=2
